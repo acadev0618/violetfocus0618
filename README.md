@@ -34,6 +34,18 @@ Core Skills
 
 <h3 align="center">I am available now and can start right now.</h3>
 
+
+<img src="https://activity-graph.herokuapp.com/graph?username=violetfocus0618&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<br/>
+
+
+![Aca Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetfocus0618&theme=radical&hide_border=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=violetfocus0618&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=violetfocus0618&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
+
 ## <p align="center">😇 Contact Me 😇</p>
   <div align="center"> 
    <a href="mailto:devops.sm.group2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
